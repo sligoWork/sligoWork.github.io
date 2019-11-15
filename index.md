@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head>
 
 <link rel="stylesheet" href="Stylesheet.css">
@@ -31,4 +31,4 @@
     </div>
 
 </body> 
-</html>        
+     
