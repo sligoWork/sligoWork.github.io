@@ -1,3 +1,13 @@
 body {
-    color: black;
+    background-color: black;
+}
+
+.title {
+    font-size: 50px;      /* Size */
+    color: white;      /* Colour */
+    font-family: 'Montserrat', sans-serif;      /* Font Family - what text looks like */     
+    /* Title padding */
+    padding-left: 30px; 
+    padding-top: 15px;     
+    /* ------------- */
 }
