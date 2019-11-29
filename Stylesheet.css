@@ -1,20 +1,35 @@
 body {
-    background-color: black;
+    background-color: rgba(0,0,0);
+    margin: 0px;
+    background-image: url(sligoimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .title {
     font-size: 50px;      /* Size */
-    color: white;      /* Colour */
+    color: rgb(200, 200, 200);      /* Colour */
     font-family: 'Montserrat', sans-serif;      /* Font Family - what text looks like */     
     /* Title padding */
     padding-left: 40px; 
-    padding-top: 15px;     
+    padding-top: 15px;  
+    background-color: rgba(15, 15, 15, 0.8);   
+    margin-left: 0;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    padding-bottom: 35px;
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style: solid;
+    border-left: 20px solid rgb(0, 0, 0);
     /* ------------- */
 }
 
 .sub {
-    color: grey;
+    color: rgb(100, 100, 100);
     font-size: 30px;
+    
+    
 }
 
 /* The Modal (background) */
