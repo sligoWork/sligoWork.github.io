@@ -1,3 +1,3 @@
 https://Sligowork.github.io
 
-V1.0
+V2.0
